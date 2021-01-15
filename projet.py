@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on 08/05/2020
-
-@author: aness
-"""
 
 ################################## Déclaration des classes ##################################
 
