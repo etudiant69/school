@@ -1,0 +1,21 @@
+.banner{
+	height: 75px;
+	margin: 0px -10px 10px;
+	text-align: center;
+	background-color: rgb(36, 173, 227);
+	border-radius: 2px;
+}
+
+.banner h2{
+	color: white;
+	padding-top: 10px;
+	margin-left: 2%;
+	display: inline-block;
+}
+
+.banner Img{
+	position: relative;
+	float: right;
+	right: 10px;
+	height: 75px;
+}
